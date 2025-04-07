@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Haoran Xie</h1>
-<h3 align="center">I'm passionate in Game Development, Graphic Engineering, and Machine learning.</h3>
+<h3 align="center">I'm passionate in Graphic Engineering, Machine learning, and Game Development.</h3>
 
 <p align="left">
 </p>
